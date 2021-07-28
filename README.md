@@ -1,2 +1,2 @@
 # countryApp
-cognizant-cpcc capstone
+cognizant-cpcc capstone by james batts & jeff andrews
