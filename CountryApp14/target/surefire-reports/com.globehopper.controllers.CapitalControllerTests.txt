@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.globehopper.controllers.CapitalControllerTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.963 s - in com.globehopper.controllers.CapitalControllerTests
