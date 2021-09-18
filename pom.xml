@@ -14,7 +14,7 @@
 	<artifactId>CountryApp14</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CountryApp14</name>
-	<description>Globehopper App</description>
+	<description>GlobehopperApp</description>
 	
 	<properties>
 		<java.version>11</java.version>
